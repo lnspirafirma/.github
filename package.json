@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "openai": "^6.33.0"
+    "openai": "^4.68.0"
   },
   "type": "module",
   "scripts": {
