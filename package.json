@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "openai": "^6.33.0"
+  },
+  "type": "module",
+  "scripts": {
+    "haiku": "node haiku.mjs"
+  }
+}
