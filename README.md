@@ -18,6 +18,6 @@ export OPENAI_API_KEY="<your-api-key>"
 node haiku.mjs
 ```
 
-This script uses the Responses API with `gpt-5-nano` to generate a haiku.
+This script uses the Chat Completions API with gpt-4o to generate a haiku.
 
 > Security note: do not hardcode API keys in source files. If a key is exposed publicly, revoke and rotate it immediately.
